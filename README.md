@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Bhushan Patil👋
 
-- 👨🏻‍🎓 I'm a graduate student in Computer Science and Engineering.
+- 👨🏻‍🎓 I'm a graduate student in Computer Engineering.
 
 - 🌱 I’m currently learning **Full stack Java Developer**
 
