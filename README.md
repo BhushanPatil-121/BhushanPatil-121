@@ -2,10 +2,9 @@
 
 ## Hi 👋, I'm Bhushan Patil👋
 
+-👨🏻‍🎓I'm a graduation student.
 
 - 🌱 I’m currently learning **Full stack Java Developer**
-
-- 📫 How to reach me **bpatil25052001@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😅**
 
