@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Bhushan Patil👋
 
--👨🏻‍🎓I'm a graduation student.
+- 🌱 👨🏻‍🎓I'm a graduation student
 
 - 🌱 I’m currently learning **Full stack Java Developer**
 
