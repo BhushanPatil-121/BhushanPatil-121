@@ -1,4 +1,4 @@
-<img align="center" alt="poster" src="glow.jpg" width="900" height="140" />
+<img align="center" alt="poster" src="profile.png" width="900" height="140" />
 
 ## Hi 👋, I'm Bhushan Patil👋
 
