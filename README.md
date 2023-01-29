@@ -2,9 +2,11 @@
 
 ## Hi 👋, I'm Bhushan Patil👋
 
-- 🌱 👨🏻‍🎓I'm a graduation student
+- 🌱 👨🏻‍🎓I'm a graduate student
 
 - 🌱 I’m currently learning **Full stack Java Developer**
+
+- 👨🏻‍💻I generally code in java and i am also familiar with html , css and js.
 
 - ⚡ Fun fact **I am Funny 😅**
 
