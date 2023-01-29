@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I am Funny 😅**
 
  
- ## Feel free to talk to me:😄
+ ## Feel free to message me:😄
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BhushanPatil-121)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhushan-patil-0b5b54247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhushan_2001_/)
 
  
