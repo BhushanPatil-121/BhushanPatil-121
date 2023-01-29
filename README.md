@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bhushanpatil-121&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanpatil-121&theme=radical"/>
 |---|---|
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Anubhavmishra15/anubhavmishra15/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="500" height="320" />
  
 
 ## Languages & Tools:
