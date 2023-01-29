@@ -1,4 +1,4 @@
-<img align="center" alt="poster" src="profile.png" width="1250" height="240" />
+<img align="center" alt="poster" src="profile.png" width="1250" height="200" />
 
 ## Hi 👋, I'm Bhushan Patil👋
 
