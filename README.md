@@ -12,10 +12,11 @@
 
  
  ## Feel free to message me:😄
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BhushanPatil-121)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhushan-patil-0b5b54247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhushan_2001_/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BhushanPatil-121)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhushan-patil-0b5b54247/) 
 
  
-[![Instagram Badge](https://img.shields.io/badge/-Bhushan-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavism/)](https://www.instagram.com/bhushan_2001_/)
+
 [![Linkedin Badge](https://img.shields.io/badge/-BhushanPatil-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mishra-370b171bb/)](https://www.linkedin.com/in/bhushan-patil-0b5b54247/)
 <a href="https://Anubhavmishra15.github.io/myresume/"><img src="C:\Users\VINOD\Downloads\Maayavi  Professional Resume (4).svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhushanpatil-121)
